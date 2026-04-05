@@ -1,0 +1,20 @@
+[
+  {
+    "id": "full_mvd_09",
+    "title": "Полный профиль МВД",
+    "description": "Включает бинды, УК, КоАП и калькулятор.",
+    "server": "СЕРВЕР 09",
+    "author": "Duran_Korrupcioner",
+    "type": "profile",
+    "fileUrl": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/catalog/mvd_09.json"
+  },
+  {
+    "id": "fines_gibdd",
+    "title": "База штрафов ГИБДД",
+    "description": "Все статьи калькулятора с учетом изъятия ВУ.",
+    "server": "СЕРВЕР 09",
+    "author": "Duran_Korrupcioner",
+    "type": "fines",
+    "fileUrl": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/catalog/fines.json"
+  }
+]
