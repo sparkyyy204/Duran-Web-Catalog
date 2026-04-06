@@ -1,20 +1,11 @@
 [
   {
     "id": "full_mvd_09",
-    "title": "Устав МВД",
-    "description": "Полный устав МВД",
-    "server": "СЕРВЕР 09",
+    "title": "Набор биндов ФСБ",
+    "description": "Набор быстрых комманд для ФСБ",
+    "server": "Все серверы",
     "author": "Duran_Korrupcioner",
-    "type": "laws",
-    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/mvd_charter09.json"
-  },
-  {
-    "id": "fines_gibdd",
-    "title": "База штрафов ГИБДД",
-    "description": "Все статьи калькулятора с учетом изъятия ВУ.",
-    "server": "СЕРВЕР 09",
-    "author": "Duran_Korrupcioner",
-    "type": "fines",
-    "fileUrl": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/catalog/fines.json"
+    "type": "binds",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/bindsFSBv1"
   }
 ]
