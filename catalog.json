@@ -17,5 +17,47 @@
     "author": "Duran_Korrupcioner",
     "type": "fines",
     "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/Fines09"
+  },
+
+  {
+    "id": "Fines09",
+    "title": "Устав Нац.Гвардии",
+    "description": "Полный текст устава Нац.Гвардии",
+    "server": "СЕРВЕР 09",
+    "author": "Duran_Korrupcioner",
+    "type": "laws",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/NACG_charter09"
+  },
+
+  {
+    "id": "Fines09",
+    "title": "Устав ФСИН",
+    "description": "Полный текст устава ФСИН",
+    "server": "СЕРВЕР 09",
+    "author": "Duran_Korrupcioner",
+    "type": "laws",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/FSIN_charter09"
+  },
+
+  {
+    "id": "Fines09",
+    "title": "Устав МО",
+    "description": "Полный текст устава МО",
+    "server": "СЕРВЕР 09",
+    "author": "Duran_Korrupcioner",
+    "type": "laws",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/MO_charter09"
+  },
+
+  {
+    "id": "Fines09",
+    "title": "Устав МВД",
+    "description": "Полный текст устава МВД",
+    "server": "СЕРВЕР 09",
+    "author": "Duran_Korrupcioner",
+    "type": "laws",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/mvd_charter09"
   }
+
+  
 ]
