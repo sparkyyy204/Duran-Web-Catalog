@@ -10,6 +10,19 @@
   },
 
   {
+    "id": "bindsMVDv1",
+    "title": "Набор биндов МВД",
+    "description": "Набор быстрых комманд для МВД",
+    "server": "Все серверы",
+    "author": "Duran_Korrupcioner",
+    "type": "binds",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/bindsMVDv1"
+  },
+
+
+  
+
+  {
     "id": "Fines09",
     "title": "База КоАП",
     "description": "Набор статей для калькулятора штрафов",
