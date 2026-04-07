@@ -1,0 +1,521 @@
+{
+  "Binds": {
+    "7e934e": {
+      "id": "7e934e",
+      "name": "Представится",
+      "key": "Alt + Q",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "Министерство внутренних дел.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 14
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "/todo Показывая документы: *ЗВ* | *ФАМ* | *ВЗВОД**Можете ознакомиться.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 50
+        },
+        {
+          "Index": 3,
+          "action": "CHAT",
+          "value": "/doc ",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": false,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    },
+    "fec1a7": {
+      "id": "fec1a7",
+      "name": "Запрос документов.",
+      "key": "Alt + E",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "Предъявите документы, а именно паспорт.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    },
+    "a5942a": {
+      "id": "a5942a",
+      "name": "Наручники",
+      "key": "Alt + 1",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/do Наручники висят на поясе.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "/cuff ",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": false,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    },
+    "068004": {
+      "id": "068004",
+      "name": "Рация с тегом",
+      "key": "RShift",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/r *ТЕГ* ",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": false,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    },
+    "5a8030": {
+      "id": "5a8030",
+      "name": "Конвоирование",
+      "key": "Alt + 2",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/me схватил человека напротив",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 24
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "/escort ",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": false,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    },
+    "9b64fe": {
+      "id": "9b64fe",
+      "name": "Поиск по лицу",
+      "key": "Alt + 3",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/do КПК в руках.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "/me открыл програму поиска по лицу",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 3,
+          "action": "CHAT",
+          "value": "/me сфоткал лицо человека",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 4,
+          "action": "CHAT",
+          "value": "/do Личность человека установлена.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    },
+    "041812": {
+      "id": "041812",
+      "name": "Обыск",
+      "key": "Alt + 4",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/me начал проводить обыск",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "/do Процесс....",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 3,
+          "action": "CHAT",
+          "value": "/search ",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": false,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    },
+    "ffe219": {
+      "id": "ffe219",
+      "name": "Выдать розыск",
+      "key": "Alt + 5",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/me внес данные в базу розыска МВД",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "/do Процес...",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 3,
+          "action": "CHAT",
+          "value": "/c 60",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 4,
+          "action": "PRESS",
+          "value": "Escape",
+          "desc": "КНОПКА",
+          "ColorCode": "#ff7b72",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 5,
+          "action": "CHAT",
+          "value": "/su ",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": false,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    },
+    "131f52": {
+      "id": "131f52",
+      "name": "Сорвать маску",
+      "key": "Alt + F",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/do Человек напротив находится в маске.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "/me протянув правую руку вперёд, сорвал маску с лица у человека напротив",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 3,
+          "action": "CHAT",
+          "value": "/do Маска сорвана, человек находится без маски на лице.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    },
+    "c3b292": {
+      "id": "c3b292",
+      "name": "Выбросить с авто",
+      "key": "Numpad1",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/me разбил стекло автомобиля",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "/me резким движением выкинул человека",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 3,
+          "action": "CHAT",
+          "value": "/ejectout",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    },
+    "e1ebc8": {
+      "id": "e1ebc8",
+      "name": "Првоерка тонировки",
+      "key": "Numpad2",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/do Тауметр лежит в сумке.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "/me открыл сумку, достал тауметр и пачку салфеток, протёр датчики тауметра",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 3,
+          "action": "CHAT",
+          "value": "/me измеряет уровень светопропускаемости стёкол автомобиля",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    },
+    "0b0a65": {
+      "id": "0b0a65",
+      "name": "Ориентировка розыска",
+      "key": "Numpad3",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/do КПК в правой руке.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "/me зашёл в раздел список разыскиваемых",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 3,
+          "action": "CHAT",
+          "value": "/do Лицо подозреваемого человека совпадает с изображением в КПК, человек находится в розыске.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 4,
+          "action": "CHAT",
+          "value": "Гражданин, Вы находитесь в розыске. Прошу без резких движений.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    },
+    "5e7059": {
+      "id": "5e7059",
+      "name": "Миранда",
+      "key": "Numpad5",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "Вы задержаны за нахождении в федеральном розыске.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "Всё что вы скажите будет использоваться против вас в суде.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 3,
+          "action": "CHAT",
+          "value": "Вы имеете полное право на адвоката.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 4,
+          "action": "CHAT",
+          "value": "Вам ясны ваши права?",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
+    }
+  },
+  "Groups": [],
+  "Variables": {
+    "*ВЗВОД*": "ЦППС",
+    "*ФАМ*": "Иванов",
+    "*ТЕГ*": "[Р]",
+    "*ЗВ*": "Рядовой"
+  }
+}
