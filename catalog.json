@@ -57,7 +57,17 @@
     "author": "Duran_Korrupcioner",
     "type": "laws",
     "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/mvd_charter09"
-  }
+  },
 
+  {
+    "id": "YK_KOAP09",
+    "title": "Законы УК+КоАП",
+    "description": "Полный текст Уголовного и Административного закона",
+    "server": "СЕРВЕР 09",
+    "author": "Duran_Korrupcioner",
+    "type": "laws",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/YK_KOAP09"
+  }
   
+
 ]
