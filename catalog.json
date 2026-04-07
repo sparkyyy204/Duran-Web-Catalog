@@ -1,6 +1,6 @@
 [
   {
-    "id": "full_mvd_09",
+    "id": "bindsFSBv1",
     "title": "Набор биндов ФСБ",
     "description": "Набор быстрых комманд для ФСБ",
     "server": "Все серверы",
@@ -20,7 +20,7 @@
   },
 
   {
-    "id": "Fines09",
+    "id": "NACG_charter09",
     "title": "Устав Нац.Гвардии",
     "description": "Полный текст устава Нац.Гвардии",
     "server": "СЕРВЕР 09",
@@ -30,7 +30,7 @@
   },
 
   {
-    "id": "Fines09",
+    "id": "FSIN_charter09",
     "title": "Устав ФСИН",
     "description": "Полный текст устава ФСИН",
     "server": "СЕРВЕР 09",
@@ -40,7 +40,7 @@
   },
 
   {
-    "id": "Fines09",
+    "id": "MO_charter09",
     "title": "Устав МО",
     "description": "Полный текст устава МО",
     "server": "СЕРВЕР 09",
@@ -50,7 +50,7 @@
   },
 
   {
-    "id": "Fines09",
+    "id": "mvd_charter09",
     "title": "Устав МВД",
     "description": "Полный текст устава МВД",
     "server": "СЕРВЕР 09",
