@@ -7,5 +7,15 @@
     "author": "Duran_Korrupcioner",
     "type": "binds",
     "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/bindsFSBv1"
+  },
+
+  {
+    "id": "Fines09",
+    "title": "База КоАП",
+    "description": "Набор статей для калькулятора штрафов",
+    "server": "СЕРВЕР 09",
+    "author": "Duran_Korrupcioner",
+    "type": "fines",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/Fines09"
   }
 ]
