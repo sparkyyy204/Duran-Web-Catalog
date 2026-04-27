@@ -899,6 +899,17 @@
     "type": "laws",
     "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/mvd_charter20.json"
   },
+
+  {
+    "id": "FSB_charter20",
+    "title": "Устав ФСБ",
+    "description": "Полный текст устава ФСБ",
+    "server": "СЕРВЕР 20",
+    "author": "Duran_Korrupcioner",
+    "type": "laws",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/FSB_charter20.json"
+  },
+  
   {
     "id": "YK_KOAP20",
     "title": "Кодексы УК+КоАП",
@@ -908,6 +919,17 @@
     "type": "laws",
     "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/YK_KOAP20.json"
   },
+  
+  {
+    "id": "DK20",
+    "title": "Дорожный кодекс",
+    "description": "Полный текст дорожного кодекса",
+    "server": "СЕРВЕР 20",
+    "author": "Duran_Korrupcioner",
+    "type": "laws",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/DK20.json"
+  },
+  
   {
     "id": "Fines21",
     "title": "База КоАП",
