@@ -54,6 +54,15 @@
     "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/mvd_charter01.json"
   },
   {
+    "id": "LekciaSuborMO",
+    "title": "Лекция для Армии",
+    "description": "Лекция на тему субординации для МО",
+    "server": "Все серверы",
+    "author": "Duran_Korrupcioner",
+    "type": "binds",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/LekciaSuborMO"
+  },
+  {
     "id": "YK_KOAP01",
     "title": "Кодексы УК+КоАП",
     "description": "Полный текст Уголовного и Административного кодекса",
