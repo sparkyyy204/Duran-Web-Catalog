@@ -18,6 +18,15 @@
     "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/bindsMVDv1"
   },
   {
+    "id": "LekciaSuborMO",
+    "title": "Лекция для МО",
+    "description": "Лекция на тему субординации для МО",
+    "server": "Все серверы",
+    "author": "Duran_Korrupcioner",
+    "type": "binds",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/LekciaSuborMO"
+  },
+  {
     "id": "Fines01",
     "title": "База КоАП",
     "description": "Набор статей для калькулятора штрафов",
@@ -52,15 +61,6 @@
     "author": "Duran_Korrupcioner",
     "type": "laws",
     "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/mvd_charter01.json"
-  },
-  {
-    "id": "LekciaSuborMO",
-    "title": "Лекция для Армии",
-    "description": "Лекция на тему субординации для МО",
-    "server": "Все серверы",
-    "author": "Duran_Korrupcioner",
-    "type": "binds",
-    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/LekciaSuborMO"
   },
   {
     "id": "YK_KOAP01",
