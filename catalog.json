@@ -396,6 +396,15 @@
     "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/YK_KOAP08.json"
   },
   {
+    "id": "FullZakon09",
+    "title": "Сборник законов",
+    "description": "Полная база: УПК, ФЗоП, ФЗоФСБ, Адв, ЗОТ, Неприкоc",
+    "server": "СЕРВЕР 09",
+    "author": "Duran_Korrupcioner",
+    "type": "laws",
+    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/FullZakon09.json"
+  },
+  {
     "id": "Fines09",
     "title": "База КоАП",
     "description": "Набор статей для калькулятора штрафов",
@@ -983,16 +992,6 @@
     "author": "Duran_Korrupcioner",
     "type": "laws",
     "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/YK_KOAP21.json"
-  },
-  {
-    "id": "FullZakon09",
-    "title": "Сборник законов",
-    "description": "Полная база: УПК, ФЗоП, ФЗоФСБ, Адв, ЗОТ, Неприкоc",
-    "server": "СЕРВЕР 09",
-    "author": "Duran_Korrupcioner",
-    "type": "laws",
-    "fileUrl": "https://raw.githubusercontent.com/sparkyyy204/Duran-Web-Catalog/refs/heads/main/FullZakon09.json"
   }
-
   
 ]
