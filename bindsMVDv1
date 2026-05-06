@@ -1,7 +1,7 @@
 {
   "Binds": {
-    "7e934e": {
-      "id": "7e934e",
+    "f342f663-13df-41ed-8cea-cf8960b7e08e": {
+      "id": "f342f663-13df-41ed-8cea-cf8960b7e08e",
       "name": "Представится",
       "key": "Alt + Q",
       "active": true,
@@ -40,8 +40,8 @@
       ],
       "isAuto": false
     },
-    "fec1a7": {
-      "id": "fec1a7",
+    "70308c9d-3f8b-477a-a023-6b1840695617": {
+      "id": "70308c9d-3f8b-477a-a023-6b1840695617",
       "name": "Запрос документов.",
       "key": "Alt + E",
       "active": true,
@@ -60,8 +60,8 @@
       ],
       "isAuto": false
     },
-    "a5942a": {
-      "id": "a5942a",
+    "23f51952-3cff-4c16-b880-54e0bb32366d": {
+      "id": "23f51952-3cff-4c16-b880-54e0bb32366d",
       "name": "Наручники",
       "key": "Alt + 1",
       "active": true,
@@ -90,8 +90,8 @@
       ],
       "isAuto": false
     },
-    "068004": {
-      "id": "068004",
+    "16c671a9-96b5-4138-8d59-a989638bd8b9": {
+      "id": "16c671a9-96b5-4138-8d59-a989638bd8b9",
       "name": "Рация с тегом",
       "key": "RShift",
       "active": true,
@@ -110,8 +110,8 @@
       ],
       "isAuto": false
     },
-    "5a8030": {
-      "id": "5a8030",
+    "89700f94-472d-4079-bddf-80c843316c0b": {
+      "id": "89700f94-472d-4079-bddf-80c843316c0b",
       "name": "Конвоирование",
       "key": "Alt + 2",
       "active": true,
@@ -140,8 +140,8 @@
       ],
       "isAuto": false
     },
-    "9b64fe": {
-      "id": "9b64fe",
+    "381a99f7-c714-45a7-9dcd-6b671f565548": {
+      "id": "381a99f7-c714-45a7-9dcd-6b671f565548",
       "name": "Поиск по лицу",
       "key": "Alt + 3",
       "active": true,
@@ -190,8 +190,8 @@
       ],
       "isAuto": false
     },
-    "041812": {
-      "id": "041812",
+    "cbf88f6a-feb9-44dc-b39d-9fea8193a95a": {
+      "id": "cbf88f6a-feb9-44dc-b39d-9fea8193a95a",
       "name": "Обыск",
       "key": "Alt + 4",
       "active": true,
@@ -230,8 +230,8 @@
       ],
       "isAuto": false
     },
-    "ffe219": {
-      "id": "ffe219",
+    "399fdf28-1143-4b68-865e-69b990817519": {
+      "id": "399fdf28-1143-4b68-865e-69b990817519",
       "name": "Выдать розыск",
       "key": "Alt + 5",
       "active": true,
@@ -290,8 +290,8 @@
       ],
       "isAuto": false
     },
-    "131f52": {
-      "id": "131f52",
+    "06ce5af8-2d3d-42b6-bdde-d506debe6b20": {
+      "id": "06ce5af8-2d3d-42b6-bdde-d506debe6b20",
       "name": "Сорвать маску",
       "key": "Alt + F",
       "active": true,
@@ -330,8 +330,8 @@
       ],
       "isAuto": false
     },
-    "c3b292": {
-      "id": "c3b292",
+    "c16a77f1-9061-42ec-ab95-3848853e8cc5": {
+      "id": "c16a77f1-9061-42ec-ab95-3848853e8cc5",
       "name": "Выбросить с авто",
       "key": "Numpad1",
       "active": true,
@@ -370,8 +370,8 @@
       ],
       "isAuto": false
     },
-    "e1ebc8": {
-      "id": "e1ebc8",
+    "59a1922f-7294-4e64-96e2-0955e87d0ea5": {
+      "id": "59a1922f-7294-4e64-96e2-0955e87d0ea5",
       "name": "Првоерка тонировки",
       "key": "Numpad2",
       "active": true,
@@ -410,8 +410,8 @@
       ],
       "isAuto": false
     },
-    "0b0a65": {
-      "id": "0b0a65",
+    "c6094fd8-fee1-4efd-914b-5917037cc75f": {
+      "id": "c6094fd8-fee1-4efd-914b-5917037cc75f",
       "name": "Ориентировка розыска",
       "key": "Numpad3",
       "active": true,
@@ -460,8 +460,8 @@
       ],
       "isAuto": false
     },
-    "5e7059": {
-      "id": "5e7059",
+    "4f84c7ab-a244-49b4-976f-cbdb2d229efc": {
+      "id": "4f84c7ab-a244-49b4-976f-cbdb2d229efc",
       "name": "Миранда",
       "key": "Numpad5",
       "active": true,
@@ -513,9 +513,67 @@
   },
   "Groups": [],
   "Variables": {
-    "*ВЗВОД*": "ЦППС",
-    "*ФАМ*": "Иванов",
-    "*ТЕГ*": "[Р]",
-    "*ЗВ*": "Рядовой"
+    "*ИМЯ*": "",
+    "*ФАМ*": "",
+    "*ТЕГ*": "",
+    "*ЗВ*": "",
+    "*ВЗВОД*": ""
+  },
+  "RadialMenu": {
+    "Enabled": true,
+    "Mode": "Standard",
+    "SectorCount": 8,
+    "Sectors": [
+      {
+        "BindId": "f342f663-13df-41ed-8cea-cf8960b7e08e",
+        "BindName": "Представится",
+        "Icon": "document",
+        "RequiresId": true
+      },
+      {
+        "BindId": "70308c9d-3f8b-477a-a023-6b1840695617",
+        "BindName": "Запрос документов.",
+        "Icon": "document",
+        "RequiresId": false
+      },
+      {
+        "BindId": "c6094fd8-fee1-4efd-914b-5917037cc75f",
+        "BindName": "Ориентировка розыска",
+        "Icon": "document",
+        "RequiresId": false
+      },
+      {
+        "BindId": "4f84c7ab-a244-49b4-976f-cbdb2d229efc",
+        "BindName": "Миранда",
+        "Icon": "document",
+        "RequiresId": false
+      },
+      {
+        "BindId": "cbf88f6a-feb9-44dc-b39d-9fea8193a95a",
+        "BindName": "Обыск",
+        "Icon": "star",
+        "RequiresId": false
+      },
+      {
+        "BindId": "c16a77f1-9061-42ec-ab95-3848853e8cc5",
+        "BindName": "Выбросить с авто",
+        "Icon": "lightning",
+        "RequiresId": true
+      },
+      {
+        "BindId": "89700f94-472d-4079-bddf-80c843316c0b",
+        "BindName": "Конвоирование",
+        "Icon": "lightning",
+        "RequiresId": true
+      },
+      {
+        "BindId": "23f51952-3cff-4c16-b880-54e0bb32366d",
+        "BindName": "Наручники",
+        "Icon": "lightning",
+        "RequiresId": true
+      }
+    ],
+    "GroupCount": 4,
+    "Groups": []
   }
 }
