@@ -1,7 +1,7 @@
 {
   "Binds": {
-    "8b09e693-41e7-4447-910a-6a6a7fd970f3": {
-      "id": "8b09e693-41e7-4447-910a-6a6a7fd970f3",
+    "771ad555-4b65-4f54-b2d6-7e711248b1c9": {
+      "id": "771ad555-4b65-4f54-b2d6-7e711248b1c9",
       "name": "Представится кратко",
       "key": "Alt + Q",
       "active": true,
@@ -10,19 +10,69 @@
         {
           "Index": 1,
           "action": "CHAT",
-          "value": "Управление ФСБ.",
+          "value": "Федеральная служба безопасности.",
           "desc": "ЧАТ",
           "ColorCode": "#1f6feb",
           "isEnter": true,
+          "IsLast": true,
+          "CursorOffset": 32
+        }
+      ],
+      "isAuto": false
+    },
+    "da9186d5-92b2-4393-84e3-35ddd224517a": {
+      "id": "da9186d5-92b2-4393-84e3-35ddd224517a",
+      "name": "Представиться полностью",
+      "key": "",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "Здравия желаю, ФСБ. *ЗВ* *ФАМ*",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "/do Достал удостоверение.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 3,
+          "action": "CHAT",
+          "value": "/me показал удостоверение на уровне глаз",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 40
+        },
+        {
+          "Index": 4,
+          "action": "CHAT",
+          "value": "/doc ",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": false,
           "IsLast": true,
           "CursorOffset": 0
         }
       ],
       "isAuto": false
     },
-    "4edc74fd-a5e2-4edb-831d-6e330917fab4": {
-      "id": "4edc74fd-a5e2-4edb-831d-6e330917fab4",
-      "name": "Документы",
+    "3f89c200-e9b2-48fe-95db-1fb6538090bb": {
+      "id": "3f89c200-e9b2-48fe-95db-1fb6538090bb",
+      "name": "Удостоверение",
       "key": "Alt + F",
       "active": true,
       "group": "ВСЕ",
@@ -40,8 +90,8 @@
       ],
       "isAuto": false
     },
-    "238c365c-6b02-446c-b256-f91d17569477": {
-      "id": "238c365c-6b02-446c-b256-f91d17569477",
+    "90d568e1-09ca-457f-af87-9dbb29cec49b": {
+      "id": "90d568e1-09ca-457f-af87-9dbb29cec49b",
       "name": "Забрать документы",
       "key": "Alt + E",
       "active": true,
@@ -60,8 +110,8 @@
       ],
       "isAuto": false
     },
-    "f1e60951-5e76-4301-89c7-324ae3fd294f": {
-      "id": "f1e60951-5e76-4301-89c7-324ae3fd294f",
+    "c725afe9-74d2-435f-9a36-ff3a4b0a903b": {
+      "id": "c725afe9-74d2-435f-9a36-ff3a4b0a903b",
       "name": "Наручники",
       "key": "Alt + 1",
       "active": true,
@@ -80,8 +130,8 @@
       ],
       "isAuto": false
     },
-    "f304ce84-1955-42e4-8dda-40f20e532caf": {
-      "id": "f304ce84-1955-42e4-8dda-40f20e532caf",
+    "7597ec99-93d6-4a59-94d9-c0b38ab6a69f": {
+      "id": "7597ec99-93d6-4a59-94d9-c0b38ab6a69f",
       "name": "Список розыскиваемых",
       "key": "\\",
       "active": true,
@@ -100,8 +150,8 @@
       ],
       "isAuto": false
     },
-    "d2821c6e-eb26-4ef9-bb33-f3646a55f78c": {
-      "id": "d2821c6e-eb26-4ef9-bb33-f3646a55f78c",
+    "f6c85c78-4d90-4414-9c9b-26674bcf1665": {
+      "id": "f6c85c78-4d90-4414-9c9b-26674bcf1665",
       "name": "Погоня",
       "key": "Alt + \\",
       "active": true,
@@ -120,8 +170,8 @@
       ],
       "isAuto": false
     },
-    "af13ed2c-ff7f-4706-937b-756f1cb17493": {
-      "id": "af13ed2c-ff7f-4706-937b-756f1cb17493",
+    "4ab3edee-f645-4e48-8cf5-8f4a5710a14c": {
+      "id": "4ab3edee-f645-4e48-8cf5-8f4a5710a14c",
       "name": "Рация с тегом",
       "key": "RShift",
       "active": true,
@@ -140,8 +190,8 @@
       ],
       "isAuto": false
     },
-    "f0149643-96de-46fd-b858-7c9d18d4a48f": {
-      "id": "f0149643-96de-46fd-b858-7c9d18d4a48f",
+    "647c3414-620e-402f-86db-d0fc54adb792": {
+      "id": "647c3414-620e-402f-86db-d0fc54adb792",
       "name": "Департамент",
       "key": "NumPad1",
       "active": true,
@@ -160,8 +210,8 @@
       ],
       "isAuto": false
     },
-    "87f7fb92-1262-48d9-b981-f2d8b6722fe3": {
-      "id": "87f7fb92-1262-48d9-b981-f2d8b6722fe3",
+    "c20455e8-01d1-4807-b5b2-55fb6f095b8b": {
+      "id": "c20455e8-01d1-4807-b5b2-55fb6f095b8b",
       "name": "Ескорт",
       "key": "Alt + 2",
       "active": true,
@@ -180,8 +230,8 @@
       ],
       "isAuto": false
     },
-    "94c86849-f0c5-4b2b-bd76-b1c78a5495d9": {
-      "id": "94c86849-f0c5-4b2b-bd76-b1c78a5495d9",
+    "cf2263ec-470e-4dd2-9dda-e2422275ceae": {
+      "id": "cf2263ec-470e-4dd2-9dda-e2422275ceae",
       "name": "Фоторобот",
       "key": "Alt + 3",
       "active": true,
@@ -199,16 +249,6 @@
         },
         {
           "Index": 2,
-          "action": "WAIT",
-          "value": "500",
-          "desc": "ПАУЗА",
-          "ColorCode": "#d2a65e",
-          "isEnter": true,
-          "IsLast": false,
-          "CursorOffset": 0
-        },
-        {
-          "Index": 3,
           "action": "CHAT",
           "value": "/me составил фоторобот человека",
           "desc": "ЧАТ",
@@ -218,17 +258,7 @@
           "CursorOffset": 0
         },
         {
-          "Index": 4,
-          "action": "WAIT",
-          "value": "500",
-          "desc": "ПАУЗА",
-          "ColorCode": "#d2a65e",
-          "isEnter": true,
-          "IsLast": false,
-          "CursorOffset": 0
-        },
-        {
-          "Index": 5,
+          "Index": 3,
           "action": "CHAT",
           "value": "/do Личность человека установлена.",
           "desc": "ЧАТ",
@@ -240,8 +270,8 @@
       ],
       "isAuto": false
     },
-    "8f7cf97b-74c4-4b8d-ab46-25991f3106e0": {
-      "id": "8f7cf97b-74c4-4b8d-ab46-25991f3106e0",
+    "54a96cf8-1fb7-4c48-aecd-754d18ffb3aa": {
+      "id": "54a96cf8-1fb7-4c48-aecd-754d18ffb3aa",
       "name": "Обыск",
       "key": "Alt + 4",
       "active": true,
@@ -260,8 +290,8 @@
       ],
       "isAuto": false
     },
-    "e47ab952-eaef-405e-9968-3046b8609930": {
-      "id": "e47ab952-eaef-405e-9968-3046b8609930",
+    "745abef3-7356-48a7-ad92-acd654f693a4": {
+      "id": "745abef3-7356-48a7-ad92-acd654f693a4",
       "name": "Объявить в розыск",
       "key": "Alt + 5",
       "active": true,
@@ -280,8 +310,8 @@
       ],
       "isAuto": false
     },
-    "433c3ae0-0c17-4977-b585-e3829f329efe": {
-      "id": "433c3ae0-0c17-4977-b585-e3829f329efe",
+    "49b45158-2922-430d-a436-163058a307bd": {
+      "id": "49b45158-2922-430d-a436-163058a307bd",
       "name": "Изменить личное дело",
       "key": "Alt + 7",
       "active": true,
@@ -299,16 +329,6 @@
         },
         {
           "Index": 2,
-          "action": "WAIT",
-          "value": "1000",
-          "desc": "ПАУЗА",
-          "ColorCode": "#d2a65e",
-          "isEnter": true,
-          "IsLast": false,
-          "CursorOffset": 0
-        },
-        {
-          "Index": 3,
           "action": "CHAT",
           "value": "/me сверил фоторобот, звание и именной шеврон сотрудника",
           "desc": "ЧАТ",
@@ -318,17 +338,7 @@
           "CursorOffset": 0
         },
         {
-          "Index": 4,
-          "action": "WAIT",
-          "value": "1000",
-          "desc": "ПАУЗА",
-          "ColorCode": "#d2a65e",
-          "isEnter": true,
-          "IsLast": false,
-          "CursorOffset": 0
-        },
-        {
-          "Index": 5,
+          "Index": 3,
           "action": "CHAT",
           "value": "/do Личное дело сотрудника найденно.",
           "desc": "ЧАТ",
@@ -338,17 +348,7 @@
           "CursorOffset": 0
         },
         {
-          "Index": 6,
-          "action": "WAIT",
-          "value": "1000",
-          "desc": "ПАУЗА",
-          "ColorCode": "#d2a65e",
-          "isEnter": true,
-          "IsLast": false,
-          "CursorOffset": 0
-        },
-        {
-          "Index": 7,
+          "Index": 4,
           "action": "CHAT",
           "value": "/me внес изменения в личное дело сотрудника",
           "desc": "ЧАТ",
@@ -358,17 +358,7 @@
           "CursorOffset": 0
         },
         {
-          "Index": 8,
-          "action": "WAIT",
-          "value": "1000",
-          "desc": "ПАУЗА",
-          "ColorCode": "#d2a65e",
-          "isEnter": true,
-          "IsLast": false,
-          "CursorOffset": 0
-        },
-        {
-          "Index": 9,
+          "Index": 5,
           "action": "CHAT",
           "value": "/c 60",
           "desc": "ЧАТ",
@@ -378,17 +368,7 @@
           "CursorOffset": 0
         },
         {
-          "Index": 10,
-          "action": "WAIT",
-          "value": "1000",
-          "desc": "ПАУЗА",
-          "ColorCode": "#d2a65e",
-          "isEnter": true,
-          "IsLast": false,
-          "CursorOffset": 0
-        },
-        {
-          "Index": 11,
+          "Index": 6,
           "action": "PRESS",
           "value": "Escape",
           "desc": "КНОПКА",
@@ -400,8 +380,8 @@
       ],
       "isAuto": false
     },
-    "d063a8c4-67c8-49c1-9ecd-919f0fc8e0b1": {
-      "id": "d063a8c4-67c8-49c1-9ecd-919f0fc8e0b1",
+    "73425428-f5d7-40b1-9021-058be651c6aa": {
+      "id": "73425428-f5d7-40b1-9021-058be651c6aa",
       "name": "Миранда",
       "key": "Alt + U",
       "active": true,
@@ -410,25 +390,15 @@
         {
           "Index": 1,
           "action": "CHAT",
-          "value": "Задержаны на основании 1.1.1 УПК. Вы имеете право хранить молчание.",
+          "value": "Вы имеете право хранить молчание.",
           "desc": "ЧАТ",
           "ColorCode": "#1f6feb",
           "isEnter": true,
           "IsLast": false,
-          "CursorOffset": 0
+          "CursorOffset": 33
         },
         {
           "Index": 2,
-          "action": "WAIT",
-          "value": "1000",
-          "desc": "ПАУЗА",
-          "ColorCode": "#d2a65e",
-          "isEnter": true,
-          "IsLast": false,
-          "CursorOffset": 0
-        },
-        {
-          "Index": 3,
           "action": "CHAT",
           "value": "Всё, что вы скажете, может и будет использовано против Вас в суде.",
           "desc": "ЧАТ",
@@ -438,17 +408,7 @@
           "CursorOffset": 0
         },
         {
-          "Index": 4,
-          "action": "WAIT",
-          "value": "1000",
-          "desc": "ПАУЗА",
-          "ColorCode": "#d2a65e",
-          "isEnter": true,
-          "IsLast": false,
-          "CursorOffset": 0
-        },
-        {
-          "Index": 5,
+          "Index": 3,
           "action": "CHAT",
           "value": "Вы имеете право на адвоката.",
           "desc": "ЧАТ",
@@ -458,17 +418,7 @@
           "CursorOffset": 0
         },
         {
-          "Index": 6,
-          "action": "WAIT",
-          "value": "1000",
-          "desc": "ПАУЗА",
-          "ColorCode": "#d2a65e",
-          "isEnter": true,
-          "IsLast": false,
-          "CursorOffset": 0
-        },
-        {
-          "Index": 7,
+          "Index": 4,
           "action": "CHAT",
           "value": "Если у вас нет адвоката, он будет предоставлен вам по вашему требованию.",
           "desc": "ЧАТ",
@@ -478,17 +428,7 @@
           "CursorOffset": 0
         },
         {
-          "Index": 8,
-          "action": "WAIT",
-          "value": "1000",
-          "desc": "ПАУЗА",
-          "ColorCode": "#d2a65e",
-          "isEnter": true,
-          "IsLast": false,
-          "CursorOffset": 0
-        },
-        {
-          "Index": 9,
+          "Index": 5,
           "action": "CHAT",
           "value": "Вы понимаете свои права?",
           "desc": "ЧАТ",
@@ -500,8 +440,8 @@
       ],
       "isAuto": false
     },
-    "fa7a58f7-1f8e-415f-9ac4-d60cb21e08df": {
-      "id": "fa7a58f7-1f8e-415f-9ac4-d60cb21e08df",
+    "59faf274-fd33-43d4-9c5e-5611f420beaa": {
+      "id": "59faf274-fd33-43d4-9c5e-5611f420beaa",
       "name": "Выехал на МО",
       "key": "мо1",
       "active": true,
@@ -520,8 +460,8 @@
       ],
       "isAuto": true
     },
-    "d2b82bca-8469-4613-98ca-9bb8ede6605e": {
-      "id": "d2b82bca-8469-4613-98ca-9bb8ede6605e",
+    "716565a0-2751-43da-a596-e355b4af818e": {
+      "id": "716565a0-2751-43da-a596-e355b4af818e",
       "name": "Продолжаю МО",
       "key": "мо2",
       "active": true,
@@ -540,8 +480,8 @@
       ],
       "isAuto": true
     },
-    "357abfe9-a4b0-4cc2-8691-594e0940f06b": {
-      "id": "357abfe9-a4b0-4cc2-8691-594e0940f06b",
+    "240be081-d492-4d3d-954c-b1c452e72712": {
+      "id": "240be081-d492-4d3d-954c-b1c452e72712",
       "name": "Закончил МО",
       "key": "мо3",
       "active": true,
@@ -560,8 +500,8 @@
       ],
       "isAuto": true
     },
-    "6b8b0f49-aaba-466d-830e-115761a2c87e": {
-      "id": "6b8b0f49-aaba-466d-830e-115761a2c87e",
+    "8073aaf1-d815-4ad6-b4dd-0c5b086040e5": {
+      "id": "8073aaf1-d815-4ad6-b4dd-0c5b086040e5",
       "name": "Выехал на МЗ",
       "key": "мз1",
       "active": true,
@@ -580,8 +520,8 @@
       ],
       "isAuto": true
     },
-    "5ca921ed-ca8b-4751-a5ba-deb544fa68b0": {
-      "id": "5ca921ed-ca8b-4751-a5ba-deb544fa68b0",
+    "74162df8-1415-4825-987a-e7b5ba669256": {
+      "id": "74162df8-1415-4825-987a-e7b5ba669256",
       "name": "Продолжаю МЗ",
       "key": "мз2",
       "active": true,
@@ -600,8 +540,8 @@
       ],
       "isAuto": true
     },
-    "4e55a880-f1c2-4075-afbd-07243d8d5436": {
-      "id": "4e55a880-f1c2-4075-afbd-07243d8d5436",
+    "075da2b1-f5fe-419d-a99e-8bf37d7835bc": {
+      "id": "075da2b1-f5fe-419d-a99e-8bf37d7835bc",
       "name": "Закончил МЗ",
       "key": "мз3",
       "active": true,
@@ -620,9 +560,9 @@
       ],
       "isAuto": true
     },
-    "bc1fce8c-63ad-49e1-ad02-60c0a702d666": {
-      "id": "bc1fce8c-63ad-49e1-ad02-60c0a702d666",
-      "name": "Вызов адвоката",
+    "d77013fe-1a1e-41b1-ac8c-d8506d42c351": {
+      "id": "d77013fe-1a1e-41b1-ac8c-d8506d42c351",
+      "name": "Адвокат. МВД",
       "key": "адвокат1",
       "active": true,
       "group": "ВСЕ",
@@ -635,13 +575,53 @@
           "ColorCode": "#1f6feb",
           "isEnter": false,
           "IsLast": true,
-          "CursorOffset": 21
+          "CursorOffset": 75
         }
       ],
       "isAuto": true
     },
-    "dcebfa8d-30f4-4cb2-99a3-b9647f32c72e": {
-      "id": "dcebfa8d-30f4-4cb2-99a3-b9647f32c72e",
+    "d34ecd6e-b9f1-4178-bf70-bf029bef7638": {
+      "id": "d34ecd6e-b9f1-4178-bf70-bf029bef7638",
+      "name": "Адвокат. ФСБ",
+      "key": "адвокат3",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/d [ФСБ] - [Пра-во] Вызываю адвоката в допросную ФСБ.  Время вызова *ВРЕМЯ*",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": true,
+          "CursorOffset": 23
+        }
+      ],
+      "isAuto": true
+    },
+    "752c684a-c890-4590-95cf-4124dcadfa71": {
+      "id": "752c684a-c890-4590-95cf-4124dcadfa71",
+      "name": "Адвокат. ФСИН",
+      "key": "адвокат2",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/d [ФСБ] - [Пра-во] Вызываю адвоката в допросную ФСИН.  Время вызова *ВРЕМЯ*",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": true,
+          "CursorOffset": 23
+        }
+      ],
+      "isAuto": true
+    },
+    "a22896af-5a34-41e1-8571-260476766c23": {
+      "id": "a22896af-5a34-41e1-8571-260476766c23",
       "name": ".rep",
       "key": "/rep",
       "active": true,
@@ -660,8 +640,8 @@
       ],
       "isAuto": true
     },
-    "b6ccbd92-8dc4-48f7-87ff-441202049dd7": {
-      "id": "b6ccbd92-8dc4-48f7-87ff-441202049dd7",
+    "aa75a1f7-afb9-40c1-9601-2c176fc2f0f2": {
+      "id": "aa75a1f7-afb9-40c1-9601-2c176fc2f0f2",
       "name": ".куз",
       "key": ".куз",
       "active": true,
@@ -680,8 +660,8 @@
       ],
       "isAuto": true
     },
-    "12610f5d-b7c7-4b50-ac2e-7cf7a8651b78": {
-      "id": "12610f5d-b7c7-4b50-ac2e-7cf7a8651b78",
+    "cda9012d-69a1-4193-b81f-50a364a88d65": {
+      "id": "cda9012d-69a1-4193-b81f-50a364a88d65",
       "name": "/eje",
       "key": "/eje",
       "active": true,
@@ -700,8 +680,8 @@
       ],
       "isAuto": true
     },
-    "608b6793-29a2-48d0-9de6-0dc371660d96": {
-      "id": "608b6793-29a2-48d0-9de6-0dc371660d96",
+    "9a98c552-6683-4142-9bb4-04b08d85ae16": {
+      "id": "9a98c552-6683-4142-9bb4-04b08d85ae16",
       "name": ".уоу",
       "key": ".уоу",
       "active": true,
@@ -720,8 +700,8 @@
       ],
       "isAuto": true
     },
-    "762151b8-3f8e-4c78-968c-d9387e84b919": {
-      "id": "762151b8-3f8e-4c78-968c-d9387e84b919",
+    "efebca2e-3979-45bb-94bf-2036eb985446": {
+      "id": "efebca2e-3979-45bb-94bf-2036eb985446",
       "name": ".зг",
       "key": ".зг",
       "active": true,
@@ -740,8 +720,8 @@
       ],
       "isAuto": true
     },
-    "3693bb90-d770-43bc-bced-aed1639cd7f2": {
-      "id": "3693bb90-d770-43bc-bced-aed1639cd7f2",
+    "01df6e0e-f86c-4504-858b-4c1d4e57d90f": {
+      "id": "01df6e0e-f86c-4504-858b-4c1d4e57d90f",
       "name": "/pu",
       "key": "/pu",
       "active": true,
@@ -759,6 +739,56 @@
         }
       ],
       "isAuto": true
+    },
+    "bc95ff8b-3e48-49a6-b673-5d1b2c6c70ec": {
+      "id": "bc95ff8b-3e48-49a6-b673-5d1b2c6c70ec",
+      "name": "Личное дело заключенного",
+      "key": "",
+      "active": true,
+      "group": "ВСЕ",
+      "steps": [
+        {
+          "Index": 1,
+          "action": "CHAT",
+          "value": "/do КПК в руках.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 2,
+          "action": "CHAT",
+          "value": "/me открыл личное дело заключенного",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 17
+        },
+        {
+          "Index": 3,
+          "action": "CHAT",
+          "value": "/do Процессс...",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": false,
+          "CursorOffset": 0
+        },
+        {
+          "Index": 4,
+          "action": "CHAT",
+          "value": "/do Личное дело открыто.",
+          "desc": "ЧАТ",
+          "ColorCode": "#1f6feb",
+          "isEnter": true,
+          "IsLast": true,
+          "CursorOffset": 0
+        }
+      ],
+      "isAuto": false
     }
   },
   "Groups": [
@@ -770,5 +800,195 @@
     "*ФАМ*": "",
     "*ТЕГ*": "",
     "*ЗВ*": ""
+  },
+  "RadialMenu": {
+    "Enabled": true,
+    "Mode": "Grouped",
+    "SectorCount": 4,
+    "Sectors": [
+      {
+        "BindId": "771ad555-4b65-4f54-b2d6-7e711248b1c9",
+        "BindName": "Представится кратко",
+        "Icon": "star",
+        "RequiresId": false
+      },
+      {
+        "BindId": "",
+        "BindName": "",
+        "Icon": "none",
+        "RequiresId": false
+      },
+      {
+        "BindId": "",
+        "BindName": "",
+        "Icon": "none",
+        "RequiresId": false
+      },
+      {
+        "BindId": "",
+        "BindName": "",
+        "Icon": "none",
+        "RequiresId": false
+      }
+    ],
+    "GroupCount": 4,
+    "Groups": [
+      {
+        "Name": "Аррест",
+        "SectorCount": 5,
+        "Sectors": [
+          {
+            "BindId": "54a96cf8-1fb7-4c48-aecd-754d18ffb3aa",
+            "BindName": "Обыск",
+            "Icon": "lightning",
+            "RequiresId": true
+          },
+          {
+            "BindId": "c725afe9-74d2-435f-9a36-ff3a4b0a903b",
+            "BindName": "Наручники",
+            "Icon": "lightning",
+            "RequiresId": true
+          },
+          {
+            "BindId": "c20455e8-01d1-4807-b5b2-55fb6f095b8b",
+            "BindName": "Ескорт",
+            "Icon": "lightning",
+            "RequiresId": true
+          },
+          {
+            "BindId": "90d568e1-09ca-457f-af87-9dbb29cec49b",
+            "BindName": "Забрать документы",
+            "Icon": "lightning",
+            "RequiresId": true
+          },
+          {
+            "BindId": "745abef3-7356-48a7-ad92-acd654f693a4",
+            "BindName": "Объявить в розыск",
+            "Icon": "lightning",
+            "RequiresId": true
+          }
+        ]
+      },
+      {
+        "Name": "Поставки",
+        "SectorCount": 6,
+        "Sectors": [
+          {
+            "BindId": "8073aaf1-d815-4ad6-b4dd-0c5b086040e5",
+            "BindName": "Выехал на МЗ",
+            "Icon": "car",
+            "RequiresId": false
+          },
+          {
+            "BindId": "59faf274-fd33-43d4-9c5e-5611f420beaa",
+            "BindName": "Выехал на МО",
+            "Icon": "car",
+            "RequiresId": false
+          },
+          {
+            "BindId": "716565a0-2751-43da-a596-e355b4af818e",
+            "BindName": "Продолжаю МО",
+            "Icon": "car",
+            "RequiresId": false
+          },
+          {
+            "BindId": "240be081-d492-4d3d-954c-b1c452e72712",
+            "BindName": "Закончил МО",
+            "Icon": "car",
+            "RequiresId": false
+          },
+          {
+            "BindId": "075da2b1-f5fe-419d-a99e-8bf37d7835bc",
+            "BindName": "Закончил МЗ",
+            "Icon": "car",
+            "RequiresId": false
+          },
+          {
+            "BindId": "74162df8-1415-4825-987a-e7b5ba669256",
+            "BindName": "Продолжаю МЗ",
+            "Icon": "car",
+            "RequiresId": false
+          }
+        ]
+      },
+      {
+        "Name": "Связь",
+        "SectorCount": 5,
+        "Sectors": [
+          {
+            "BindId": "752c684a-c890-4590-95cf-4124dcadfa71",
+            "BindName": "Адвокат. ФСИН",
+            "Icon": "star",
+            "RequiresId": false
+          },
+          {
+            "BindId": "d34ecd6e-b9f1-4178-bf70-bf029bef7638",
+            "BindName": "Адвокат. ФСБ",
+            "Icon": "star",
+            "RequiresId": false
+          },
+          {
+            "BindId": "d77013fe-1a1e-41b1-ac8c-d8506d42c351",
+            "BindName": "Адвокат. МВД",
+            "Icon": "star",
+            "RequiresId": false
+          },
+          {
+            "BindId": "4ab3edee-f645-4e48-8cf5-8f4a5710a14c",
+            "BindName": "Рация с тегом",
+            "Icon": "star",
+            "RequiresId": false
+          },
+          {
+            "BindId": "647c3414-620e-402f-86db-d0fc54adb792",
+            "BindName": "Департамент",
+            "Icon": "star",
+            "RequiresId": false
+          }
+        ]
+      },
+      {
+        "Name": "Проц. Действия",
+        "SectorCount": 6,
+        "Sectors": [
+          {
+            "BindId": "7597ec99-93d6-4a59-94d9-c0b38ab6a69f",
+            "BindName": "Список розыскиваемых",
+            "Icon": "document",
+            "RequiresId": false
+          },
+          {
+            "BindId": "cf2263ec-470e-4dd2-9dda-e2422275ceae",
+            "BindName": "Фоторобот",
+            "Icon": "document",
+            "RequiresId": false
+          },
+          {
+            "BindId": "3f89c200-e9b2-48fe-95db-1fb6538090bb",
+            "BindName": "Удостоверение",
+            "Icon": "document",
+            "RequiresId": true
+          },
+          {
+            "BindId": "771ad555-4b65-4f54-b2d6-7e711248b1c9",
+            "BindName": "Представится кратко",
+            "Icon": "document",
+            "RequiresId": false
+          },
+          {
+            "BindId": "73425428-f5d7-40b1-9021-058be651c6aa",
+            "BindName": "Миранда",
+            "Icon": "document",
+            "RequiresId": false
+          },
+          {
+            "BindId": "da9186d5-92b2-4393-84e3-35ddd224517a",
+            "BindName": "Представиться полностью",
+            "Icon": "document",
+            "RequiresId": true
+          }
+        ]
+      }
+    ]
   }
 }
