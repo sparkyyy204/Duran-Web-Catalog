@@ -593,7 +593,7 @@
           "value": "/d [ФСБ] - [Пра-во] Вызываю адвоката в допросную ФСБ.  Время вызова *ВРЕМЯ*",
           "desc": "ЧАТ",
           "ColorCode": "#1f6feb",
-          "isEnter": true,
+          "isEnter": false,
           "IsLast": true,
           "CursorOffset": 23
         }
@@ -613,7 +613,7 @@
           "value": "/d [ФСБ] - [Пра-во] Вызываю адвоката в допросную ФСИН.  Время вызова *ВРЕМЯ*",
           "desc": "ЧАТ",
           "ColorCode": "#1f6feb",
-          "isEnter": true,
+          "isEnter": false,
           "IsLast": true,
           "CursorOffset": 23
         }
